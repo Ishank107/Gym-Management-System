@@ -1,5 +1,14 @@
 Gym Management System
 
+<img src="https://img.shields.io/badge/Java-17-orange?style=flat-square&amp;logo=java" alt="Java">
+
+<img src="https://img.shields.io/badge/Spring Boot-3.5.10-brightgreen?style=flat-square&amp;logo=springboot" alt="Spring Boot">
+
+<img src="https://img.shields.io/badge/React-18-blue?style=flat-square&amp;logo=react" alt="React">
+
+<img src="https://img.shields.io/badge/Vite-Latest-purple?style=flat-square&amp;logo=vite" alt="Vite">
+
+
 A full-stack Gym Management System built using Spring Boot (Backend) and React + Vite (Frontend).
 
 This system helps manage members, trainers, attendance, and payment tracking in one place.
