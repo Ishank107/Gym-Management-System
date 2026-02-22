@@ -112,7 +112,7 @@ Future Improvements
 	•	Deployment to cloud
 	•	CI/CD pipeline
 Author
-Shivam Raj
+Ishank Verma
 GitHub:
-https://github.com/ShivamRaj9188/Gym-Management-System
+https://github.com/Ishank107/Gym-Management-System
 
